@@ -1,7 +1,13 @@
 ## Hello!
-I am an undergraduate student at Harding University.
+I am an undergraduate student at Harding University studying data science.
 
 My expected graduation date is December 2024.
+
+# Some of my projects include
+Analyzing the significance of recruiting rankings for college football success.
+Building minesweeper in C++.
+Building a webscraper in Python.
+Programming a baseball game in Python.
 
 <!--
 **syager26/syager26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
