@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+I am an undergraduate student at Harding University.
+
+My expected graduation date is December 2024.
 
 <!--
 **syager26/syager26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
