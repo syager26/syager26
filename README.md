@@ -3,7 +3,7 @@ I am an undergraduate student at Harding University studying data science.
 
 My expected graduation date is December 2024.
 
-# Some of my projects include
+## Some of my projects include
 Analyzing the significance of recruiting rankings for college football success.
 
 Building minesweeper in C++.
