@@ -5,8 +5,11 @@ My expected graduation date is December 2024.
 
 # Some of my projects include
 Analyzing the significance of recruiting rankings for college football success.
+
 Building minesweeper in C++.
+
 Building a webscraper in Python.
+
 Programming a baseball game in Python.
 
 <!--
