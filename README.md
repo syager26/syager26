@@ -10,6 +10,8 @@ Building minesweeper in C++.
 
 Building a webscraper in Python.
 
+Building models to analyze NFL data and make predictions.
+
 Programming a baseball game in Python.
 
 <!--
